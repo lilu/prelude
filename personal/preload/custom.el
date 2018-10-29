@@ -34,3 +34,5 @@
 
 (setq mac-command-modifier 'super)
 (setq mac-option-modifier 'meta)
+
+(add-hook 'rust-mode-hook 'eglot-ensure)
