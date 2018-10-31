@@ -18,3 +18,4 @@
  '(default ((t (:inherit nil :stipple nil :background "#2A2A2A" :foreground "#DDDDDD" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 181 :width normal :foundry "nil" :family "Fira Code")))))
 
 (setq whitespace-line-column 140)
+(scroll-bar-mode -1)
